@@ -13,7 +13,7 @@
    { "src": "/index-2", "dest": "/" },
    { "src": "/login-register", "dest": "/" },
    { "src": "/shop-left-sidebar", "dest": "/" },
-   { "src": "/shopping-card", "dest": "/" },
+   { "src": "/shopping-carts", "dest": "/" },
    { "src": "/single-product", "dest": "/" }
     ]
 }
