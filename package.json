@@ -1,15 +1,18 @@
 {
-  "name": "user",
-  "version": "0.0.0",
+  "name": "p-web-gk",
+  "version": "1.0.0",
   "private": true,
+  "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "build": "npm build",
+    "start": "node index.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "express-handlebars": "^3.1.0",
+    "handlebars": "^4.5.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
   }
